@@ -1,0 +1,23 @@
+{
+  "name": "versionamento2",
+  "version": "0.0.1",
+  "description": "Teste de versionamento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brendajsilva/versionamento2.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Javascript"
+  ],
+  "author": "Brenda Julya de Souza Freitas da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brendajsilva/versionamento2/issues"
+  },
+  "homepage": "https://github.com/brendajsilva/versionamento2#readme"
+}
